@@ -1,0 +1,6 @@
+{
+  "name": "Faça Você Também",
+  "description": "Website institucional do projeto solidário Faça Você Também. Apoie nossas campanhas para levar alegria, cuidado e esperança com cestas de alimentos, apoio escolar e ações permanentes direcionadas ao impacto social positivo no Brasil e em todo o mundo. Faça sua doação e participe!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
